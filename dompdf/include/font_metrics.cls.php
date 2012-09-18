@@ -10,7 +10,8 @@
  */
 
 require_once DOMPDF_LIB_DIR . "/class.pdf.php";
-require_once DOMPDF_LIB_DIR . "/php-font-lib/classes/font.cls.php";
+// Doesn't exist =(
+//require_once DOMPDF_LIB_DIR . "/php-font-lib/classes/font.cls.php";
 
 /**
  * Name of the font cache file
